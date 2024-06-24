@@ -1,7 +1,5 @@
 # Новостное приложение
 
-Новостное приложения со [стримов Android Broadcast](https://www.youtube.com/playlist?list=PL0SwNXKJbuNmIqMPiBnXkmfugSjWePAmx)
-
 Приложения показывает простой список новостей, которые получаются из newsapi.org
 
 Технологический стек:
