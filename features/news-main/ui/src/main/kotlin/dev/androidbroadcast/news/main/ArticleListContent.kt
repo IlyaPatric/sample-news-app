@@ -65,7 +65,7 @@ internal fun Article(
                             isImageVisible = false
                         }
                     },
-                    contentDescription = stringResource(R.string.content_desc_item_article_image),
+                    contentDescription = null,
                     contentScale = ContentScale.Crop,
                     modifier = Modifier.size(150.dp)
                 )
